@@ -1,0 +1,24 @@
+{
+  "configurations" : [
+    {
+      "id" : "EE78BCA5-56DA-4A94-AB38-F4AD506A324A",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "performanceAntipatternCheckerEnabled" : true
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:",
+        "identifier" : "OptionalDesugaringTests",
+        "name" : "OptionalDesugaringTests"
+      }
+    }
+  ],
+  "version" : 1
+}
